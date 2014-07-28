@@ -8,7 +8,7 @@ Motion is detected via webcam which triggers video recording. After video is rec
 Project history
 ===============
 
-VSAS was created for CS2720 Software Engineering Spring 2013 at the [University of Northern Iowa](www.uni.edu) by [Dr Stephen Hughes](http://www.uni.edu/sthughes/). 
+VSAS was created for CS2720 Software Engineering Spring 2013 at the [University of Northern Iowa](http://www.uni.edu) by [Dr Stephen Hughes](http://www.uni.edu/sthughes/). 
 
 ### Team:
 Abu Audu, Levi Bostian, Taylor Brown, Kyle Mueller, Kristen Nielsen
